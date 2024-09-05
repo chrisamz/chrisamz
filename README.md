@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a Data Scientist with nearly 6 years of experience in <br>data analysis, machine learning, and data pipeline development. <br>My expertise lies in developing scalable data solutions <br>and deploying machine learning models to solve complex <br>problems across various fields, including healthcare, particle <br>physics, and cybersecurity. I've worked on projects ranging from <br>designing advanced deep learning models for the Large Hadron <br>Collider to creating image processing software for rapid tumor <br>classification at UC San Diego Health. I am passionate about <br>mentoring junior data scientists, fostering collaboration, and <br>integrating innovative data science methods to drive impactful, <br>data-driven decisions. 
 
 
